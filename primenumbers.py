@@ -5,5 +5,4 @@ for i in range(2,n):
             break
     else:
         print(i)
-print("This is a primes numbers")
-print("This is for revert")
+print("This is a ")
